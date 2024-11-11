@@ -12,3 +12,4 @@ dependencies:
   - pip:
       - nbgitpuller
       - sphinx-gallery
+      - surprise  # For SVD and other recommendation algorithms
