@@ -70,7 +70,7 @@ To run the notebook locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/LEAN-96/Recommender-Systems.git
+    git clone https://github.com/LEAN-96/Advanced-Recommender-Systems.git
     cd recommender-system
     ```
 
@@ -102,7 +102,7 @@ To run the notebook locally, follow these steps:
 
 To run this notebook online without any local installation, you can use MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LEAN-96/Recommender-Systems.git/HEAD?labpath=notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LEAN-96/Advanced-Recommender-Systems.git/HEAD?labpath=notebooks)
 
 Once MyBinder loads:
 1. Navigate to your notebook (`2-Advanced_Recommender_Systems.ipynb`) in the file browser on the left.
