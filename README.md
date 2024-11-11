@@ -138,7 +138,7 @@ Memory-based collaborative filtering relies on user or item similarity to make p
 
 In model-based collaborative filtering, algorithms like matrix factorization are used to learn latent factors from the data. The evaluation metric provided here is:
 
-- **Das Seltenheits-Niveau: 93.7%**
+- **"Seltenheits-Niveau": 93.7%**
   - This metric reflects how well the model captures rare or unique patterns in user preferences. A higher percentage (93.7%) indicates that the model is effective at identifying less common user behaviors or preferences, which can be particularly useful for making personalized recommendations.
 
 ### 3. **SVD (Singular Value Decomposition)**
